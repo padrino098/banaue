@@ -1,0 +1,8 @@
+{
+  "name": "Banaue Terraces Transient House",
+  "description": "A luxury-themed React application for a boutique transient house in the heart of the Banaue Rice Terraces, featuring a Gemini-powered travel assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
